@@ -1,4 +1,6 @@
 # Polo Social Share  - Best Social sharing plugin for wordpress
+[![Latest Stable Version](https://poser.pugx.org/collizo4sky/persist-admin-notices-dismissal/v/stable)](https://packagist.org/packages/collizo4sky/persist-admin-notices-dismissal)
+[![Total Downloads](https://poser.pugx.org/collizo4sky/persist-admin-notices-dismissal/downloads)](https://packagist.org/packages/collizo4sky/persist-admin-notices-dismissal)
 
 Polo Social Share is a lite weight and user friendly wordpress plugin which integrate nice social sharing icons to wordpress website. 
 This plugin is build based on jsSocials [js-socials.com](http://js-socials.com/)
